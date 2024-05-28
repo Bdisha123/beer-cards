@@ -1,0 +1,16 @@
+
+.app {
+  text-align: center;
+  padding: 32px;
+  /* background-color: #000000; */
+  background-image: linear-gradient(to top, #fffffe 0%, #dddcd7 24%, #e2c9cc 30%, #e7627d 46%, #b8235a 59%, #801357 71%, #3d1635 84%, #1c1a27 100%);
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  margin-bottom: 32px;
+  font-family: 'Pacifico', cursive;
+  color: #ff00b2;
+  font-size: 50px;
+}
+
